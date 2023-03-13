@@ -18,7 +18,7 @@
 "birthday1": {"name": "劳动节", "birthday": "2023-5-1"},
 
 # 生日2
-"birthday2": {"name": "考试结束", "birthday": "2023-7-6"},
+"birthday2": {"name": "本学期结束", "birthday": "2023-7-6"},
 # 在一起的日子，格式同上，暂不不支持农历
 
 "love_date": "2023-03-12",
